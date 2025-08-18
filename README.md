@@ -1,1 +1,30 @@
-aqui
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mi Página de Prueba</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Página de Prueba </h1>
+    <p>Curso: Herramientas de Desarrollo</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Sobre mí</h2>
+      <p>Hola, soy Dustin y esta es mi primera página enlazada con GitHub.</p>
+    </section>
+
+    <section>
+      <h2>Repositorio</h2>
+      <a href="https://github.com/Dustin200309/pro" target="_blank">Ver en GitHub</a>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Dustin</p>
+  </footer>
+</body>
+</html>
